@@ -1,7 +1,7 @@
 # Particle-Filter-SLAM
-#SLAM with Particle Filter
+## SLAM with Particle Filter
 
-###Overview
+### Overview
 This project aims to perform SLAM using a Particle Filter. Given a car's encoder, Fiber Optic
 Gyro (FOG) and lidar data, we can plot the trajectory of the car. 
 The approach is using a particle filter which localises and maps the car using these two steps in a loop
