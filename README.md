@@ -35,4 +35,4 @@ The other files are helper modules.
 
 ### Results
 ![Final Trajectory](finaltrajec.png)
-![Final Trajectory](127634-Occupancy map-np50.png)
+![Final Occupancy Map](127634-Occupancy map-np-50.png)
